@@ -1,4 +1,4 @@
-package br.com.udemy.section8.currency_converter.until;
+package br.com.udemy.section8.currency_converter.util;
 
 public class CurrencyConverter {
 

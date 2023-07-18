@@ -1,6 +1,6 @@
 package br.com.udemy.section8.currency_converter.application;
 
-import br.com.udemy.section8.currency_converter.until.CurrencyConverter;
+import br.com.udemy.section8.currency_converter.util.CurrencyConverter;
 
 import java.util.Locale;
 import java.util.Scanner;
